@@ -1,5 +1,6 @@
 {
   "name": "Digital Literacy Readiness Assessment",
   "description": "A comprehensive assessment tool to evaluate digital skills across 6 key areas based on DigComp 2.2 and DQ Institute frameworks.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
